@@ -1,8 +1,8 @@
 # YUNSUBAK [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunsubak&count_bg=%236798FD&title_bg=%23D9E5FF&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hello World!
-✏️ Seoultech Department of Electronic IT Media Engineering
-🌟 My dream is to be a full stack developer 💻
+* ✏️ Seoultech Department of Electronic IT Media Engineering
+* 🌟 My dream is to be a full stack developer 💻
 
 
 <!--
