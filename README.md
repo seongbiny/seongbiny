@@ -2,6 +2,7 @@
 
 ### Hello World!
 ✏️ Seoultech Department of Electronic IT Media Engineering
+🌟 My dream is to be a full stack developer 💻
 
 
 <!--
