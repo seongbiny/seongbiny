@@ -2,7 +2,7 @@
 
 ### Hello World!
 * 🌟 My dream is to be a full stack developer 💻
-* SSAFY 6
+* SSAFY 6th
 
 
 <!--
