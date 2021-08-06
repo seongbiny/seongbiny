@@ -4,6 +4,8 @@
 * 🌟 My dream is to be a WEB developer 💻
 * SSAFY 6th
 
+<img src="https://img.shields.io/badge/Python-0040FF?style=flat-square&logo=Python&logoColor=white"/>
+
 
 <!--
 **yunsubak/yunsubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
