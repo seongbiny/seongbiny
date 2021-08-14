@@ -5,7 +5,7 @@
 * SSAFY 6th
 
 <div align=center>
-  ### **Studying...🐱**
+  <h3>Studying...🐱</h3>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white"/> 
