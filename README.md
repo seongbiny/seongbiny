@@ -4,7 +4,9 @@
 * 🌟 My dream is to be a WEB developer 💻
 * SSAFY 6th
 
-### **Studying...🐱**
+<div align=center>
+  ### **Studying...🐱**
+</div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HTML5-FF4000?style=flat-square&logo=HTML5&logoColor=white"/> 
