@@ -3,8 +3,7 @@
 ### Hello World!
 * 🌟 My dream is to be a WEB developer 💻
 * SSAFY 6th
-* <a href="https://asked.kr/sbsb7247"><img src="https://user-images.githubusercontent.com/60650518/129452049-c39e5fc7-5829-4689-875b-9197df9dfe28.png
-">If I have not 1 day 1 commit, please contact me. PLEASE ~ </a>
+* If I have not 1 day 1 commit, please contact me. PLEASE ~ 
 * 🤔 I’m looking for help with algorithm
 
 <div align=center>
