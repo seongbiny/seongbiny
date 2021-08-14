@@ -3,7 +3,7 @@
 ### Hello World!
 * 🌟 My dream is to be a WEB developer 💻
 * SSAFY 6th
-* If I have not 1 day 1 commit, please contact me. 
+* If I have not 1 day 1 commit, please contact me. PLEASE ~
 
 <div align=center>
   <h3>Studying...🐱</h3>
