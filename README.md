@@ -3,8 +3,6 @@
 ### Hello World!
 * 🌟 My dream is to be a WEB developer 💻
 * SSAFY 6th
-* If I have not 1 day 1 commit, please text me. PLEASE ~ 
-* 🤔 I’m looking for help with algorithm
 
 <div align=center>
   <h3>Studying...🐱</h3>
