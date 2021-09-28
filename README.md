@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbiny)](https://solved.ac/seongbiny/)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbiny)](https://solved.ac/seongbiny)
 
 
 <!--
