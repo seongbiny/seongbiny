@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
-
+<!-- [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbiny)](https://solved.ac/seongbiny) -->
 
 <!--
 **yunsubak/yunsubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
