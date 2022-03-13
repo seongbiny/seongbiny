@@ -28,7 +28,7 @@
     <summary>
       boj 
     </summary>
-    <div>
+    <div>  
       <p>
         <a href="https://github-readme-solvedac.hyp3rflow.vercel.app/png?handle=seongbiny"></a>
       </p>
