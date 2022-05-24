@@ -1,6 +1,6 @@
 # SEONGBINY [![VISIT](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunsubak&count_bg=%236798FD&title_bg=%23D9E5FF&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
            
-### Hello World!        
+### Hello World!
 * 🌟 My dream is to be a Front-end web developer 💻 
       
 ### Experience         
@@ -8,7 +8,7 @@
 * ✏️ SSAFY 6th    
         
 <div align=center>
-  <h3>Studying...🐱</h3>
+  <h3>Studying..🐱</h3>
 </div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
