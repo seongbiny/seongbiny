@@ -27,7 +27,7 @@
 <div align="center">
   <details open>
     <summary>
-      boj 
+      boj          
     </summary>
     <div>  
       <p> 
