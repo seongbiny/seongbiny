@@ -2,12 +2,12 @@
                                    
 ### Hello World!       
 * 🌟 I am a Frontend developer 💻      
-      
+
 ### Experience         
 * 🎓 SEOULTECH , Department of Electronic and IT Media Engineering
 * ✏️ SSAFY 6th    
        
-<div align=center>
+<div align=center>       
   <h3>Studying..🐱</h3>
 </div>
 <div align=center> 
