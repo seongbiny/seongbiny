@@ -3,7 +3,7 @@
 ### Hello World!           
 * 🌟 I am a Frontend developer 💻      
 
-### Experience
+### Experience      
 * 🎓 SEOULTECH , Department of Electronic and IT Media Engineering
 * ✏️ SSAFY 6th    
               
