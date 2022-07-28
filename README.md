@@ -23,18 +23,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
 
-<!-- [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbiny)](https://solved.ac/seongbiny) -->
-<!--
-<div align="center">
-  <details open>
-    <summary>
-      boj          
-    </summary>
-    <div>     
-      <p> 
-        <a href="https://github-readme-solvedac.hyp3rflow.vercel.app/png?handle=seongbiny"></a>
-      </p>
-    </div>    
-  </details>
-</div>
--->
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongbiny)](https://solved.ac/seongbiny)
+
+
