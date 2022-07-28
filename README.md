@@ -2,6 +2,7 @@
                                    
 ### Hello World!
 * 🌟 I am a Frontend developer 💻      
+* I will master ReactNative
 
 ### Experience      
 * 🎓 SEOULTECH , Department of Electronic and IT Media Engineering
